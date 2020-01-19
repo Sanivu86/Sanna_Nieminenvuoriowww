@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> Eka HTML sivu
+</title>
+</head>
+<body>
+<h1> Esittely </h1>
+<p> Tähän tekstiä, joka itse keksitty. 
+    &lt;p&gt; Tämä näkyy sivulla. &lt;/p&gt;
+    <!-- Tämä taas ei näy kuin koodissa. 
+    
+    -->
+    Mitä jos lisään tähän jotain? </p>
+
+    <ul>
+        <li>Sanna</li>
+        <li>Pete</li>
+        <li>Monni</li>
+    </ul>
+
+    <ol>
+<li>Sanna</li>
+<li>Pete</li>
+<li>Monni</li>
+
+    </ol>
+    <img src="/image/kuva1.jpg" width="100px" height="100px">
+<img src="image/kuva3.jpg" alt= "Kuva 2" width="100px" height="100px" title="Otsikko">
+<img src="https://raw.githubusercontent.com/dipaish/www2020/master/docs/images/header.png ">
+</body>
+</html>

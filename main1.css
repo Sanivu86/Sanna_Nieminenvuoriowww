@@ -1,0 +1,44 @@
+.flexsailio{
+display: flex;
+background-color: cyan;
+}
+
+.flexsailio > div, .flexcolumn > div {
+
+    margin: 10px;
+    text-align: center;
+    width: fit-content;
+    background-color: hotpink;
+    line-height: 50px;
+    font-size: 30px;
+}
+
+.flexcolumn {
+
+    display: flex;
+    background-color: lawngreen;
+    flex-direction: column;
+}
+
+.box {
+    float: left;
+    width: 200px;
+    background-color: orange;
+    min-height: 400px;
+}
+
+header, footer {
+    background-color:yellow;
+    height: 100px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+}
+
+.oikea {
+    float: right;
+    width: 200px;
+    background-color: indigo;
+    color: magenta;
+    min-height: 400px;
+}
