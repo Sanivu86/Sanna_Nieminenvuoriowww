@@ -41,6 +41,7 @@ article{
 footer{
     background-color: rgb(124, 238, 133);
     font-size: 16px;
+    height: 100px;
 }
 
 .flexbox{
