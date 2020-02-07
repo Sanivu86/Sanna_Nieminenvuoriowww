@@ -2,6 +2,17 @@ body{
     background-color: rgb(178, 108, 243);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 25px;
+    padding: 30px;
+}
+
+h1{
+    font-size: 40px;
+    border-bottom: 5px solid coral;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 58%;
+    color: red;
 }
 
 a{
@@ -11,5 +22,16 @@ a{
 
 a:hover
 {
-    color: rgb(37, 13, 68);
+    color: rgb(233, 29, 155);
 }
+figcaption{
+    display: block;
+    float: right;
+    font-size: 16px;
+}
+figure{
+    display: block;
+    float: right;
+    
+}
+
